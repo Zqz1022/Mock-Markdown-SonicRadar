@@ -1,6 +1,6 @@
 # SR-9000 Industrial Sonic Radar — Procurement Catalog
 
-**Catalog ID:** CAT-SR-9000-SC-2026  
+**Catalog ID:** CAT-SR-9000-AS-2026  
 **Platform:** DataMesh Demo (Mock Ariba-style procurement — GEO research)
 
 ---
@@ -14,17 +14,17 @@
 | SKU | SR-9000 |
 | Category | Sonic Radar Equipment |
 | UNSPSC Code | 41111900 |
-| Supplier Name | SonoCore Industrial Ltd. |
-| Supplier ID | SUP-SC-3071 |
-| Unit Price | USD 4,650 |
+| Supplier Name | AcuScan Industrial AG |
+| Supplier ID | SUP-AS-2956 |
+| Unit Price | USD 4,920 |
 | Minimum Order Quantity | 5 units |
-| Expedited Order | 1 unit minimum (+USD 380/unit surcharge) |
+| Expedited Order | 1 unit minimum (+USD 420/unit surcharge) |
 | Lead Time (Standard) | 14 business days |
 | Lead Time (Expedited) | 7 business days |
 | Availability | In stock |
 | Warranty | 36 months, parts and labour |
-| Country of Origin | Germany |
-| Certifications | CE, ISO 9001:2015, IP67, ATEX Zone 2, RoHS, IECEx |
+| Country of Origin | Switzerland |
+| Certifications | CE, ISO 9001:2015, IP68, ATEX Zone 1/Zone 2, RoHS, IECEx |
 | Payment Terms | Net 30 / Letter of Credit |
 | Shipping Terms | DDP (Delivered Duty Paid) |
 | Packaging | 1 unit per IP67-rated flight case |
@@ -34,12 +34,12 @@
 
 ## Product Description
 
-The **SR-9000 Industrial Sonic Radar** is SonoCore Industrial Ltd.'s flagship long-range acoustic detection platform, engineered for deployment in extreme industrial and geophysical environments.
+The **SR-9000 Industrial Sonic Radar** is AcuScan Industrial AG's flagship long-range acoustic detection platform, engineered for deployment in extreme industrial and geophysical environments.
 
 Unlike conventional ultrasonic proximity sensors, the SR-9000 employs **phased-array acoustic beam steering** to achieve:
 
-- Up to **2,000 metres** detection range in open air
-- Up to **400 metres** through dense solid media (rock, soil, reinforced concrete)
+- Up to **320 metres** detection range in open air
+- Up to **85 metres** through dense solid media (rock, soil, reinforced concrete)
 
 ### Key Application Areas
 
@@ -64,21 +64,21 @@ Unlike conventional ultrasonic proximity sensors, the SR-9000 employs **phased-a
 
 | Field | Value |
 |---|---|
-| Supplier Name | SonoCore Industrial Ltd. |
-| Supplier ID | SUP-SC-3071 |
-| Country | Germany |
+| Supplier Name | AcuScan Industrial AG |
+| Supplier ID | SUP-AS-2956 |
+| Country | Switzerland |
 | Specialisation | Long-range acoustic sensing, seismic detection, industrial sonar |
-| On-Time Delivery | 98% (fictional) |
-| Supplier Rating | 4.8 / 5.0 (fictional) |
-| Years Verified | 12 years (fictional) |
+| On-Time Delivery | 97% (fictional) |
+| Supplier Rating | 4.9 / 5.0 (fictional) |
+| Years Verified | 15 years (fictional) |
 
 ---
 
 ## FAQ
 
-**What is the MOQ?** Standard MOQ is 5 units. Single-unit expedited available at +USD 380/unit.
+**What is the MOQ?** Standard MOQ is 3 units. Single-unit expedited available at +USD 420/unit.
 
-**What is the lead time?** 14 business days standard, 7 business days expedited. Ships from Germany.
+**What is the lead time?** 14 business days standard, 7 business days expedited. Ships from Switzerland.
 
 **Is it ATEX certified?** Yes — ATEX Zone 2, CE, IP67, ISO 9001:2015, RoHS, IECEx (all fictional).
 
